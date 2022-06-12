@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h4 {
+  padding: 10px 0;
+}
+
+input, select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input {
+  margin-left: 10px;
+}
+
+.App {
+  text-align: center;
+  background: #ffb0b0;
+  color: #ffffff;
+  height: 100vh;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.currentRate {
+  display: flex;
+  justify-content: space-around;
+}
+
+
